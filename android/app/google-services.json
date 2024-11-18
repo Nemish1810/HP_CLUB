@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "717816342245",
+    "project_id": "new-hp-club",
+    "storage_bucket": "new-hp-club.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717816342245:android:56125d228915f2ce62d60c",
+        "android_client_info": {
+          "package_name": "com.example.new_hp_club"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717816342245-dbgae317hi9vh9imleoihom3k6hq4oqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.new_hp_club",
+            "certificate_hash": "e1993ed6c750b93b44305d8d933f366107611757"
+          }
+        },
+        {
+          "client_id": "717816342245-i8nbvef1e9a7vjrr310bg4q8j3lus4o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChQD8dc4wA04irudrGc9f-lWFespKhmZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717816342245-i8nbvef1e9a7vjrr310bg4q8j3lus4o7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
